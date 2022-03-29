@@ -1,0 +1,15 @@
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\bin\Debug\net6.0\MeuJogo.exe
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\bin\Debug\net6.0\MeuJogo.deps.json
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\bin\Debug\net6.0\MeuJogo.runtimeconfig.json
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\bin\Debug\net6.0\MeuJogo.dll
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\bin\Debug\net6.0\ref\MeuJogo.dll
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\bin\Debug\net6.0\MeuJogo.pdb
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\obj\Debug\net6.0\MeuJogo.csproj.AssemblyReference.cache
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\obj\Debug\net6.0\MeuJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\obj\Debug\net6.0\MeuJogo.AssemblyInfoInputs.cache
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\obj\Debug\net6.0\MeuJogo.AssemblyInfo.cs
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\obj\Debug\net6.0\MeuJogo.csproj.CoreCompileInputs.cache
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\obj\Debug\net6.0\MeuJogo.dll
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\obj\Debug\net6.0\ref\MeuJogo.dll
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\obj\Debug\net6.0\MeuJogo.pdb
+C:\projetos\Do-Zero-ao-Pixel\MeuJogo\MeuJogo\obj\Debug\net6.0\MeuJogo.genruntimeconfig.cache

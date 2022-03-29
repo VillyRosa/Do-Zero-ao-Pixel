@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc462b2f-a09f-4270-8eff-aa6af530040b": {
+      "ProjectGuid": "bc462b2f-a09f-4270-8eff-aa6af530040b",
+      "DisplayName": "MeuJogo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

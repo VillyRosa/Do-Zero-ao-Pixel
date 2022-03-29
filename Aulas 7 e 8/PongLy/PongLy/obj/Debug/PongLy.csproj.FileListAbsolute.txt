@@ -1,0 +1,30 @@
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\bin\Debug\PongLy.exe.config
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\bin\Debug\PongLy.exe
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\bin\Debug\PongLy.pdb
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\bin\Debug\OpenTK.dll
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\bin\Debug\OpenTK.GLControl.dll
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\bin\Debug\OpenTK.pdb
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\bin\Debug\OpenTK.xml
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\bin\Debug\OpenTK.GLControl.pdb
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\bin\Debug\OpenTK.GLControl.xml
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\obj\Debug\PongLy.csproj.AssemblyReference.cache
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\obj\Debug\PongLy.csproj.SuggestedBindingRedirects.cache
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\obj\Debug\PongLy.csproj.CoreCompileInputs.cache
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\obj\Debug\PongLy.csproj.CopyComplete
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\obj\Debug\PongLy.exe
+C:\projetos\Do-Zero-ao-Pixel\Aula 7\PongLy\PongLy\obj\Debug\PongLy.pdb
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\bin\Debug\PongLy.exe.config
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\bin\Debug\PongLy.exe
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\bin\Debug\PongLy.pdb
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\bin\Debug\OpenTK.dll
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\bin\Debug\OpenTK.GLControl.dll
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\bin\Debug\OpenTK.pdb
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\bin\Debug\OpenTK.xml
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\bin\Debug\OpenTK.GLControl.pdb
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\bin\Debug\OpenTK.GLControl.xml
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\obj\Debug\PongLy.csproj.AssemblyReference.cache
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\obj\Debug\PongLy.csproj.SuggestedBindingRedirects.cache
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\obj\Debug\PongLy.csproj.CoreCompileInputs.cache
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\obj\Debug\PongLy.csproj.CopyComplete
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\obj\Debug\PongLy.exe
+C:\projetos\Do-Zero-ao-Pixel\Aulas 7 e 8\PongLy\PongLy\obj\Debug\PongLy.pdb
