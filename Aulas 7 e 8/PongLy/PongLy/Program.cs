@@ -75,6 +75,8 @@ namespace PongLy
             {
                 xDaBola = 0;
                 yDaBola = 0;
+                yDoJogador1 = 0;
+                yDoJogador2 = 0;
             }
 
             if (Keyboard.GetState().IsKeyDown(Key.W))
