@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6bcc385d-e0a1-4daa-a0f2-0333a3a45aa4": {
+      "ProjectGuid": "6bcc385d-e0a1-4daa-a0f2-0333a3a45aa4",
+      "DisplayName": "PongLy",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
